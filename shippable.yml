@@ -5,7 +5,6 @@ build_image: shippableimages/ubuntu1204_nodejs
 
 # Version number
 node_js:
-  - 0.8
   - 0.10
   - 0.11
 
